@@ -6,4 +6,6 @@ body{
 }
 p{
     color: green;
+    font-size: 25px;
+    width: 25%;
 }
